@@ -17,3 +17,8 @@ hola:
   label: Hola
   permalink: /hola
   description: Hola tag description
+
+rss:
+  label: Rss
+  permalink: /rss
+  description: Rss tag description

@@ -2,7 +2,7 @@
 slug: long-blog-post
 title: Long Blog Post rss
 authors: yangshun
-tags: [hello, docusaurus]
+tags: [hello, docusaurus, rss]
 ---
 
 This is the summary of a very long blog post,
